@@ -1,0 +1,22 @@
+{
+  "name": "simple-background",
+  "main": "./lib/simple-background",
+  "version": "0.0.0",
+  "description": "Show your local picture as a background",
+  "keywords": [
+    "background",
+    "backgrounds",
+    "image"
+  ],
+  "author":{
+    "name": "RedRin"
+  },
+  "deprecated": false,
+  "repository": "https://github.com/RedRin/atom-simple-background.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
