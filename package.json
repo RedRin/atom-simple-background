@@ -1,14 +1,14 @@
 {
   "name": "simple-background",
   "main": "./lib/simple-background",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Show your local picture as a background",
   "keywords": [
     "background",
     "backgrounds",
     "image"
   ],
-  "author":{
+  "author": {
     "name": "RedRin"
   },
   "deprecated": false,
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
